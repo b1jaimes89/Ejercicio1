@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">R.F.C</string>
+    <string name="instrucciones">Type the following data:</string>
+    <string name="nombre">Name:</string>
+    <string name="apaterno">First surname:</string>
+    <string name="amaterno">Second surname:</string>
+    <string name="rfc">Your RFC</string>
+    <string name="fechanacimiento">Date of birth:</string>
+    <string name="formatofeca">DD/MM/YYYY</string>
+    <string name="obtenerrfc">Get RFC</string>
+    <string name="edad2">Age:</string>
+    <string name="zodico">Your zodiac sign is:</string>
+    <string name="zodiacochino">Your Chinese zodiac is:</string>
+    <string name="elemento">Zodiac element:</string>
+    <string name="rfcresultado">Your RFC:</string>
+    <string name="anunciomayus">Use capital LETTERS whitout special characteres,please</string>
+    <string name="cvacio">Empty field</string>
+    <string name="fechainvalida">Invalid date</string>
+    <string name="requerido">Error</string>
+    <string name="problema">Required field, use capital LETTERS and not special characters, also Ñ=N</string>
+    <string name="aries">Aries</string>
+    <string name="tauro">Taurus</string>
+    <string name="geminis">Gemini</string>
+    <string name="leo">Leo</string>
+    <string name="cancer">Cancer</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="escorpio">Scorpio</string>
+    <string name="sagitario">Sagittarius</string>
+    <string name="capricornio">Capricorn</string>
+    <string name="acuario">Aquarius</string>
+    <string name="piscis">Pisces</string>
+    <string name="fuego">Fire</string>
+    <string name="tierra">Ground</string>
+    <string name="aire">Air</string>
+    <string name="agua">Aqua</string>
+    <string name="mono">Monkey</string>
+    <string name="gallo">Rooster</string>
+    <string name="perro">Dog</string>
+    <string name="cerdo">Pig</string>
+    <string name="rata">Rat</string>
+    <string name="buey">Ox</string>
+    <string name="tigre">Tiger</string>
+    <string name="conejo">Rabbit</string>
+    <string name="dragon">Dragon</string>
+    <string name="serpiente">Snake</string>
+    <string name="caballo">Horse</string>
+    <string name="cabra">Goat</string>
+    <string name="year">years</string>
+</resources>

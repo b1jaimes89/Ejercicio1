@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name" translatable="false">R.F.C</string>
+    <string name="instrucciones">Ingresa los siguientes datos:</string>
+    <string name="nombre">Nombre:</string>
+    <string name="apaterno">Apellido paterno:</string>
+    <string name="amaterno">Apellido materno:</string>
+    <string name="rfc">Tu RFC</string>
+    <string name="fechanacimiento">Fecha de nacimiento:</string>
+    <string name="formatofeca">DD/MM/AAAA</string>
+    <string name="obtenerrfc">¡Obtener RFC!</string>
+    <string name="edad2">Edad:</string>
+    <string name="zodico">Tu signo zodiaco es:</string>
+    <string name="zodiacochino">Tu signo zodiaco chino es:</string>
+    <string name="elemento">Elemento zodiacal:</string>
+    <string name="rfcresultado">Tu RFC:</string>
+    <string name="anunciomayus">Inserte MAYÙSCULAS sin caracteres, por favor</string>
+    <string name="cvacio">Campo vacìo</string>
+    <string name="fechainvalida">Fecha invàlida</string>
+    <string name="requerido">Error</string>
+    <string name="problema">Campo necesario, utiliza MAYÙSCULAS y NO caracteres especiales, ademàs Ñ = N.</string>
+    <string name="aries">Aries</string>
+    <string name="tauro">Tauro</string>
+    <string name="geminis">Geminis</string>
+    <string name="leo">Leo</string>
+    <string name="cancer">Cancer</string>
+    <string name="virgo">Virgo</string>
+    <string name="libra">Libra</string>
+    <string name="escorpio">Escorpio</string>
+    <string name="sagitario">Sagitario</string>
+    <string name="capricornio">Capricornio</string>
+    <string name="acuario">Acuario</string>
+    <string name="piscis">Piscis</string>
+    <string name="fuego">Fuego</string>
+    <string name="tierra">Tierra</string>
+    <string name="aire">Aire</string>
+    <string name="agua">Agua</string>
+    <string name="mono">Mono</string>
+    <string name="gallo">Gallo</string>
+    <string name="perro">Perro</string>
+    <string name="cerdo">Cerdo</string>
+    <string name="rata">Rata</string>
+    <string name="buey">Buey</string>
+    <string name="tigre">Tigre</string>
+    <string name="conejo">Conejo</string>
+    <string name="dragon">Dragon</string>
+    <string name="serpiente">Serpiente</string>
+    <string name="caballo">Caballo</string>
+    <string name="cabra">Cabra</string>
+    <string name="year">años</string>
+</resources>
